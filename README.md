@@ -290,9 +290,3 @@ The dashboard provides valuable insights into hospital operations:
 - 📅 Admission and discharge trends help understand patient flow.
 - 🏥 Hospital management can use the dashboard for data-driven decision-making.
 
----
-
-
-│   └── Hospital_Dashboard_Project_Report.pdf
-│
-└── README.md
