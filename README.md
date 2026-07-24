@@ -79,7 +79,7 @@ The Overview Dashboard provides a summary of the overall hospital performance.
 
 ### Dashboard Preview
 
-![Hospital Overview Dashboard](image/overview.png)
+![Hospital Overview Dashboard](Images/overview.png)
 
 ---
 
@@ -105,7 +105,7 @@ The Patient Dashboard provides detailed information about individual patients.
 
 ### Dashboard Preview
 
-![Hospital Patient Dashboard](Images/patient.png)
+![Hospital Patient Dashboard](Images/patients.png)
 
 ---
 
